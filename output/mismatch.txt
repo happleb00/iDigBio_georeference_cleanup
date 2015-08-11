@@ -1,0 +1,319 @@
+Locality	Latitude	Longitude	Country	State_Province	County
+426	Bon Secour NWR	30.22861	87.83083	United States	Alabama	Baldwin
+51	15 mi W of Amado	31.108	-111.32	United States	Arizona	Pima
+96	Guadalupe Canyon	31.3325	-109.08861	United States	Arizona	Cochise
+133	Huachuca Mts.	31.2902	-110.2429	United States	Arizona	Cochise
+216	Coronado National Forest Sycamore Canyon	31.41667	111.18333	United States	Arizona	Santa Cruz
+229	Huachuca Mountains Garden Canyon, 8.9 km SSW Sierra Vista	31.47888	110.34305	United States	Arizona	Cochise
+357	14.2 km SW Tombstone Charleston Road at San Pedro River crossing	31.62638	110.17472	United States	Arizona	Cochise
+468	Yaqui Canyon Area, Coronado National Memorial	31.00581	-110.00453	United States	Arizona	Cochise
+504	Leslie Canyon, Swisshelm Mtns.	31.00982	-109.00846	United States	Arizona	Cochise
+789	Pena Blanca	31.2501	-111.0444	United States	Arizona	Santa Cruz
+971	13.3 km SSW Willcox along Weigand Road on Willcox Playa	32.14916	109.90138	United States	Arizona	Cochise
+974	5.8 km SE Willcox on salt playa along Blue Sky Road	32.21944	109.78083	United States	Arizona	Cochise
+1094	Organ Pipe National Monument, Puerto Blanco Dr. Marker #10	31.92697	-112.96088	United States	Arizona	Pima
+1339	Huachuca Mountains Garden Canyon, 9 km SSW Sierra Vista	31.47888	110.34305	United States	Arizona	Cochise
+1524	Box Canyon Coronado National Forest	31.78333	110.78028	United States	Arizona	Pima
+1890	Dragoon Mtns, Jordan Cyn	31.9925	110.01861	United States	Arizona	Cochise
+2737	Coronado National Forest Dragoon Mtns, Jordan Cyn	31.98944	110.01861	United States	Arizona	Cochise
+3017	Coronado Nat'l Forest Texas Cyn., Txas Cyn. Rd.	32.03889	110.09639	United States	Arizona	Cochise
+1	1.5 km W of Parque Sierra San Pedro Martir	30.98	-115.61	MEXICO	Baja California Norte	None or Unknown
+3	Tecate, 3.4 mi S of El Condor	32.41751	-116.16666	MEXICO	Baja California Norte	None or Unknown
+4	22 km W of Parque Sierra San Pedro Martir	30.96	-115.85	MEXICO	Baja California Norte	None or Unknown
+6	38 km E of Rt 1 toward Parque San Pedro Martir	30.96	-115.82	MEXICO	Baja California Norte	None or Unknown
+10	Ensenada	31.86667	-116.61667	MEXICO	Baja California Norte	None or Unknown
+15	6.3 mi S of El Condor, Tecate	32.40423	-116.10917	MEXICO	Baja California Norte	None or Unknown
+16	Catavina	29.8667	-114.95	MEXICO	Baja California Norte	None or Unknown
+17	45 km N of Catavina on Hwy 1	29.96291	-115.09838	MEXICO	Baja California Norte	Ensenada Municipality
+32	25 km W of San Pedro Martir Observatory	30.9778	-115.60278	MEXICO	Baja California Norte	Ensenada Municipality
+34	3.5 mi W of Parque Sierra San Pedro Martir	30.98	-115.7	MEXICO	Baja California Norte	None or Unknown
+36	53 km W of Punta Prieta toward Bahia de los Angeles	28.97187	-113.73793	MEXICO	Baja California Norte	None or Unknown
+59	Tecate, 0.3 mi E of El Condor	32.46666	-116.16152	MEXICO	Baja California Norte	None or Unknown
+62	5 km N of Bahia de los Angeles	28.99509	-113.55	MEXICO	Baja California Norte	None or Unknown
+63	51 km W of Bahia de los Angeles	28.94	-114.07	MEXICO	Baja California Norte	None or Unknown
+66	7 km W of Parque Sierra San Pedro Martir	30.97	-115.68	MEXICO	Baja California Norte	None or Unknown
+87	12 mi E of El Rosario	30.1532	-115.53903	MEXICO	Baja California Norte	None or Unknown
+92	Tecate, 0.3 mi S of El Condor	32.46666	-116.16152	MEXICO	Baja California Norte	None or Unknown
+94	3.2 km S of San Quintin	30.53127	-115.93368	MEXICO	Baja California Norte	None or Unknown
+102	9.2 km W of Bahia de Los Angeles	28.97266	-113.63212	MEXICO	Baja California Norte	None or Unknown
+116	66 km E of Hwy 1 to San Pedro Martir	30.9653	-115.6068	MEXICO	Baja California Norte	Ensenada Municipality
+120	N of San Pedro Martir	31.1794	-115.607	MEXICO	Baja California Norte	Ensenada Municipality
+148	6 mi S of San Felipe	30.95486	-114.77906	MEXICO	Baja California Norte	None or Unknown
+160	San Luis	28.43333	-113.75	MEXICO	Baja California Norte	None or Unknown
+184	41 km W of Parque Sierra San Pedro Martir	30.96	-115.97	MEXICO	Baja California Norte	None or Unknown
+234	13 mi N of Punta Prieta	29	-114.4	MEXICO	Baja California Norte	None or Unknown
+297	San Telmo Canyon	30.97977	-116.0946	MEXICO	Baja California Norte	None or Unknown
+308	2 km S of NP de Constitucion	32.0097	-115.94785	MEXICO	Baja California Norte	Ensenada Municipality
+318	Angel de la Guardia Island, Palm Canyon	29.33333	-113.41666	MEXICO	Baja California Norte	None or Unknown
+354	44 km S of Tijuana	32.19768	-116.91037	MEXICO	Baja California Norte	None or Unknown
+393	2 mi S of Ensenada, at Rancho Todos Santos	31.84	-116.6	MEXICO	Baja California Norte	None or Unknown
+415	44.5 km E of Rt 1 toward Parque San Pedro Martir	30.97935	-115.73089	MEXICO	Baja California Norte	None or Unknown
+448	26 mi S of San Felipe	30.66071	-114.75003	MEXICO	Baja California Norte	Mexicali Municipality
+481	5 km N of Hwy 3 to NP Constitucion	31.88525	-116.11113	MEXICO	Baja California Norte	Ensenada Municipality
+484	San Felipe (city of)	31	-114.86666	MEXICO	Baja California Norte	Mexicali Municipality
+521	San Pedro Martir	31.01652	-115.61317	MEXICO	Baja California Norte	None or Unknown
+530	22 mi W of Parque Nacional Sierra San Pedro Martir	30.77483	-115.6115	MEXICO	Baja California Norte	None or Unknown
+557	2 mi W of Las Encinas, Sierra San Pedro Martir	30.98	-115.65	MEXICO	Baja California Norte	None or Unknown
+581	21 mi NW of Rancho Chapala	29.52549	-114.50183	MEXICO	Baja California Norte	None or Unknown
+600	El Consuelo Dunes	30.15	-115.78333	MEXICO	Baja California Norte	None or Unknown
+694	Sierra Juarez, 12 mi S of Mexicali-Tecate Hwy. along road to E Topo Ranch	32.3716	-115.99572	MEXICO	Baja California Norte	None or Unknown
+847	38 km E Rt 1 to Parque San Pedro Martir	30.96	-115.82	MEXICO	Baja California Norte	None or Unknown
+953	36 km off Hwy 1 to San Pedro Martir	30.9555	-115.85553	MEXICO	Baja California Norte	Ensenada Municipality
+962	36 km W of Bahia de Los Angeles	29.03075	-113.86392	MEXICO	Baja California Norte	None or Unknown
+1000	7 mi SE of Maneadero	31.6451	-116.48261	MEXICO	Baja California Norte	None or Unknown
+1069	12 mi SE of Maneadero	31.59399	-116.42265	MEXICO	Baja California Norte	None or Unknown
+1194	Tijuana	32.5333	-117.0167	MEXICO	Baja California Norte	None or Unknown
+1373	9 mi S of San Augustin	29.86559	-114.84362	MEXICO	Baja California Norte	None or Unknown
+1387	San Vicente	31.32473	-116.24734	MEXICO	Baja California Norte	None or Unknown
+1677	36 mi SE of El Rosario, Rancho El Progresso	29.67	-115.28	MEXICO	Baja California Norte	None or Unknown
+1919	Mezquital, 23 mi. SE (Arroyo San Luis)	28.01488	-113.68367	MEXICO	Baja California Norte	None or Unknown
+1931	25 mi W of Bahia de Los Angeles	28.94966	-113.63268	MEXICO	Baja California Norte	None or Unknown
+2044	90 km E of San Telmo	31.01817	-115.47063	MEXICO	Baja California Norte	None or Unknown
+2204	San Quintin	30.56071	-115.94073	MEXICO	Baja California Norte	None or Unknown
+2735	Millers Landing, S.W. Rosarito	28.49139	-114.06346	MEXICO	Baja California Norte	None or Unknown
+2855	10 mi S of Chapala	29.30165	-114.25131	MEXICO	Baja California Norte	None or Unknown
+372	Brisco	50.83333	116.26667	CANADA	British Columbia	None, Unknown or Numbered Census Division
+5	Descanso	32.511	-116.3657	United States	California	San Diego
+9	Irvine, San Joaquin fresh Water Marsh Reserve	33.65833	117.85833	United States	California	None
+53	North End Dam, Calipatria	32.1026	-115.54365	United States	California	Imperial
+56	Potrero	32.3617	-116.3647	United States	California	San Diego
+136	1 km N of Cave Point	37.84889	121.88694	United States	California	Contra Costa
+191	Lake Skinner, N. (MET U4) Unburned	33.60111	117.03833	United States	California	Riverside
+213	Blue Lake	40.88306	123.98278	United States	California	Humboldt
+217	Lake Skinner (NE) ca. MET U11 (Unburned)	33.60194	117.03472	United States	California	Riverside
+276	Banner Road, 0.3 mi S of Railroad Flat Road	37.42303	120.48707	United States	California	Calaveras
+384	Arroyo Seco	34.26944	118.10528	United States	California	Los Angeles
+511	16 mi E of Calexico	32.67859	-115.2222	United States	California	Imperial
+543	Ocean Beach	32.444	-117.1543	United States	California	San Diego
+566	Burns Pinon Ridge Reserve	34.14917	116.45306	United States	California	San Bernardino
+578	UC Sedgwick Reserve, Lisque Canyon gate at Figueroa Mountain Road	34.73917	120.0574	United States	California	Santa Barbara
+629	Alpine; T15S, R2E, S28	32.01415	-116.01263	United States	California	San Diego
+682	Goodale Creek	36.98611	118.25	United States	California	Inyo
+712	Sec. 32 R.1E. T.7S. Site 2; 5.6 mi. S. Sage on R3	33.51667	116.9	United States	California	Riverside
+772	Bautista Road at Tripp Flats Road	33.60433	116.73883	United States	California	Riverside
+784	El Cajon; T16S, R1W, S10	32.01333	-117	United States	California	San Diego
+830	Menifee Vly. (hills on W end)	33.31667	117.21667	United States	California	Riverside
+866	Frank Raines Regional Park, above Ranger Station	37.4216	121.37833	United States	California	Stanislaus
+900	Lake Skinner, NE, (MET B4), ca.	33.60083	117.03722	United States	California	Riverside
+911	Carmel Point	36.54307	121.93281	United States	California	Monterey
+922	15 mi E of Calexico	32.67863	-115.23944	United States	California	Imperial
+959	El Centro	32.01278	-115.00937	United States	California	Imperial
+1035	Santa Rosa Plateau Ecol. Reserve	33.54778	117.23333	United States	California	Riverside
+1303	Pac. Cr. Tr. N. of Hwy. 74	33.55	116.56667	United States	California	Riverside
+1328	Miramar	32.5337	-117.0706	United States	California	San Diego
+1383	Jacumba Interstate 8	32.3703	-116.1123	United States	California	San Diego
+1444	San Bernardino Nat. Forest 1 mi. N. Big Bear Lake Van Dusen Canyon Rd.	34.26667	116.85	United States	California	San Bernardino
+1543	Lake Skinner, NE, (MET B11), ca.	33.60028	117.03278	United States	California	Riverside
+1550	Clark Mts. (W. end)	35.52917	115.6375	United States	California	San Bernardino
+1661	Imperial; T15S, R14E, S30	32.01264	-114.01057	United States	California	Imperial
+1675	R6E T6S; Des. Res. Center Sec. 17	33.63861	116.37638	United States	California	Riverside
+1686	Algodones Dunes	33.06231	115.75278	United States	California	Imperial
+1789	6.4 mi. N. Glamis	32.5951	-115.0419	United States	California	Imperial
+1891	Granite Mtn. Reserve, Granite Cove	34.8	115.65	United States	California	San Bernardino
+2018	Pasadena, Arroyo Seco	34.26944	118.10528	United States	California	Los Angeles
+2035	0.3 km N of Cave Point	37.84389	121.88083	United States	California	Contra Costa
+2351	Algodones Dunes S. Ruthven	32.59166	-114.99277	United States	California	Imperial
+2383	Granite Mtn. Reserve	34.8	115.65	United States	California	San Bernardino
+2719	Granite Mtn. Reserve, Granite Cove, ca.	34.8	115.65	United States	California	San Bernardino
+2799	Red Rock Canyon State Park	35.38333	118	United States	California	Kern
+2815	Calistoga, Stonegate vineyard	38.566	122.5566	United States	California	Napa
+2996	14 mi N of Dos Palos	37.18908	37.18908	United States	California	Merced
+3008	Alpine	32.5006	-116.4559	United States	California	San Diego
+3039	Sec. 32 T.7S., R.1E. Site 2, 5.6 mi. of S. Sage on R3,	33.42183	116.9	United States	California	Riverside
+3118	Boulevard-Manzanita	32.3949	-116.1625	United States	California	San Diego
+3284	Hull Road, 2.6 road mi W of County Road 305, Mendocino National Forest	39.71172	122.58197	United States	California	Glenn
+8	Yaxoquintela	16.58	91.47	MEXICO	Chiapas	Ocosingo Municipality
+2373	Ciudad Juarez	31.75453	-106.45672	MEXICO	Chihuahua	None or Unknown
+1933	2.2 km SSE Wilmington	39.72324	75.53532	United States	Delaware	New Castle
+69	Apalachicola National Forest, 9 km SSW Sumatra	29.57	85.01	United States	Florida	Franklin
+95	Apalachicola National Forest, 4 km SW Sumatra	29.59	85.01	United States	Florida	Franklin
+647	Upper Sugarloaf Key	81.5	24.7	United States	Florida	Monroe
+1663	2 km W Sopchoppy, south bank Sopchoppy River	30.03	84.3	United States	Florida	Wakulla
+40	3 km S Xalitla (Hwy 95)	18	98.4	MEXICO	Guerrero	None or Unknown
+1197	3 km S Xalitla	18	98.24	MEXICO	Guerrero	None or Unknown
+1480	30 km NE Mountain Home on Route 20	43.31944	115.42944	United States	Idaho	Elmore
+1542	3.5 km ESE Cape Sandy, Ohio River	38.13638	86.33388	United States	Indiana	Crawford
+617	Meade	37.28556	100.33972	United States	Kansas	Meade
+698	Mamou	30.63417	92.41889	United States	Louisiana	Evangeline
+192	14 mi SE of Houlton	45.93066	-67.7688	United States	Maine	Aroostook
+252	near SE end of Munsungan Lake, North Maine Woods	46.22	68.57	United States	Maine	Piscataquis
+336	Medway	45.6089	68.5308	United States	Maine	Penobscot
+434	3 km S Oquossoc, near Rangeley Lake	44.57	70.45	United States	Maine	Franklin
+1049	16 km SSE Estcourt, North Maine Woods Inc.	47.16	69.14	United States	Maine	Aroostook
+1772	15 km W Fort Kent, St. John River, south bend	47.13	68.47	United States	Maine	Aroostook
+2349	18 km S Estcourt, near Little Black River, North Maine Woods Inc.	47.17	69.21	United States	Maine	Aroostook
+1072	Andrew's Air Force Base	38.798	76.8926	United States	Maryland	Prince George's
+1245	4.3 km S Dundalk	39.2324	76.507	United States	Maryland	Baltimore
+2141	6.8 km SE Baltimore	39.242	76.5714	United States	Maryland	Baltimore
+3215	Baltimore-Washington Int. Airport	39.1843	76.6538	United States	Maryland	Anne Arundel
+2112	Mount Toby, Cranberry Pond	42.48778	72.5375	United States	Massachusetts	Franklin
+467	Detroit	42.34068	-82.9669	United States	Michigan	Wayne
+666	7.4 km ENE Crystal Valley, Michigan Womyn's Music Festival	43.81361	86.15361	United States	Michigan	Oceana
+1395	Harbor Beach	43.014	-82.01083	United States	Michigan	Harbor Beach
+1922	Norway Beach Campground, 6.2 km E Cass Lake	47.38027	94.51638	United States	Minnesota	Cass
+2880	17.8 km SE Remer near Ahsebun Lake, CR 30	44.55	93.46	United States	Minnesota	Cass
+497	11 mi. SW of Lucedale	30.8	88.7	United States	Mississippi	George
+2692	Natchez Trace mi 252	34.14972	88.81861	United States	Mississippi	Lee
+3210	11 mi SW of Lucedale Pascagoula River	30.8	88.7	United States	Mississippi	George
+3319	Rocheport	38.97944	92.56222	United States	Missouri	Boone
+2909	6.5 km E Bainville, on US 2	48.14278	104.12556	United States	Montana	Roosevelt
+1264	Grand Lake	45.66666	-67.75	CANADA	New Brunswick	None, Unknown or Numbered Census Division
+335	4 km N Colebrook	44.56	71.25	United States	New Hampshire	Coos
+28	Cherry Hill	39.93472	7.8375	United States	New Jersey	Camden
+125	1.9 km E Marksboro	40.98827	74.88438	United States	New Jersey	Warren
+240	3.2 km WSW Tuckahoe Belleplain State Forest	39.28208	74.79011	United States	New Jersey	Cape May
+1608	Marlton	39.90189	74.92928	United States	New Jersey	Burlington
+2480	3.5 km SE Glen Gardner	40.67876	74.9153	United States	New Jersey	Hunterdon
+946	21.6 km E Tucumari, I-40 at Revuelo Creek	35.16889	103.47417	United States	New Mexico	Quay
+1008	Bandelier National Monument	35.77778	106.26917	United States	New Mexico	Sandoval
+1942	Lincoln National Forest, Sacramento Mountains, Bell Canyon near Cloudcroft	32.83431	105.79972	United States	New Mexico	Otero
+1965	Gray Ranch, Cienaga South of main office	31.51667	108.86667	United States	New Mexico	Hidalgo
+3145	Gray Ranch, ~0.5mi. S. headquarters	31.51667	108.86667	United States	New Mexico	Hidalgo
+3256	E. slope Animas Mountains Indian Creek wash N. of Culberson Camp	31.42183	108.67533	United States	New Mexico	Hidalgo
+3297	Mimbres Mountains 2.8 km SW Kingston	32.90166	107.72861	United States	New Mexico	Sierra
+26	Savannah	43.075	76.76	United States	New York	Wayne
+293	Great Gully Preserve, TNC	42.80972	76.67722	United States	New York	Cayuga
+605	Round Island, Bear Mountain State Park	41.3	73.97	United States	New York	Rockland
+867	Town of Coeymens Landfill	42.48361	73.84781	United States	New York	Albany
+944	Wm. Schneider, private property	43.00583	76.40805	United States	New York	Onondaga
+1503	Robert G. Wehle State Park	43.87327	76.26338	United States	New York	Jefferson
+2286	Milton	40.96194	7.56972	United States	New York	Westchester
+45	4 mi WSW of Edenton	36.0225	36.0225	United States	North Carolina	Chowan
+88	Cape Hatteras Island, Buxton	35.25019	75.56768	United States	North Carolina	Dare
+179	Great Smoky Mountains National Park, ATBI Plot, Cataloochee	35.58611	83.08167	United States	North Carolina	Haywood
+221	Great Smoky Mountains National Park, ATBI Plot, Andrews Bald	35.55646	83.49591	United States	North Carolina	Swain
+235	Hwy-82 at SR-1813	35.15147	35.15147	United States	North Carolina	Cumberland
+2116	off Rt. 1325	34.78498	78.6527	United States	North Carolina	Bladen
+2451	Crossnore 6111 Linville Falls Hwy	36.01947	81.92575	United States	North Carolina	Avery
+2856	St. Rd. 1401 @ Eno River	36.059	78.978	United States	North Carolina	Durham
+331	Homen Township Turtle Mountain State Forest, along Highway 43	48.94944	100.26305	United States	North Dakota	Bottineau
+634	Sheyenne	47.82694	99.11694	United States	North Dakota	Eddy
+1254	along Sjule Road, 0.3 mi N of Route 43	48.96027	100.46861	United States	North Dakota	Bottineau
+2	Scioto Trail State Forest	39.21833	82.95166	United States	Ohio	Ross
+181	Conneaut Twp., 1 km E Conneaut River, 1 km S Lake Erie	41.58	80.32	United States	Ohio	Ashtabula
+500	Orange Twp., Azalea Road	40.26	81.18	United States	Ohio	Carroll
+828	Valley Twp., 8 km SSW Byesville	39.54	81.37	United States	Ohio	Guernsey
+1235	Archer Twp., 9 km N Cadiz	40.2	81.02	United States	Ohio	Harrison
+2005	Metro Parks, Carlisle Twp.	41.18	82.07	United States	Ohio	Lorain
+2036	Metro Parks, Brownhelm Twp., Vermilion River Valley, 5 km S Lake Erie	41.23	82.19	United States	Ohio	Lorain
+3133	Know Township, 14 km NW Cambridge	40.08	81.42	United States	Ohio	Guernsey
+606	5.9 km E Luther	35.65806	97.12944	United States	Oklahoma	Lincoln
+649	Fort Cobb	35.09777	98.43527	United States	Oklahoma	Caddo
+1228	Niagara Falls	43.13648	-79.05642	CANADA	Ontario	None, Unknown or Numbered Census Division
+1836	Fairbank Lake, Fairbank Provincial Park	81.45	42.45	CANADA	Ontario	Sudbury District
+2986	Sault Ste. Marie	46.52	-84.33	CANADA	Ontario	None, Unknown or Numbered Census Division
+11	1.4 km SSE Barnes Gap Sideling Hill Barrens	39.73277	78.34694	United States	Pennsylvania	Fulton
+37	Pittsburhg, Nine Mile Run, Duck Hollow	40.41722	79.91583	United States	Pennsylvania	Allegheny
+39	4.7 km SSW Galeton	41.69167	77.65472	United States	Pennsylvania	Potter
+46	Forward Township	40.20667	79.85778	United States	Pennsylvania	Allegheny
+106	Sewickley Heights	40.55722	80.14139	United States	Pennsylvania	Allegheny
+107	2.9 km ESE Alexandria Neff Limestone Barrens	40.54277	78.06861	United States	Pennsylvania	Huntingdon
+117	Collier Township	40.42111	80.14111	United States	Pennsylvania	Allegheny
+188	Penn Twnsh	40.38866	79.66158	United States	Pennsylvania	Allegheny
+189	4.9 km SE Long Pond, Bowers Gap Barrens	41.01972	75.425	United States	Pennsylvania	Monroe
+193	4 km NE Ruff Creek, Moth Ridge	39.59	80.09	United States	Pennsylvania	Greene
+326	4.7 km SE Long Pond, Bowers Gap Barrens	41.02083	75.4275	United States	Pennsylvania	Monroe
+334	1.4 km SE Barnes Gap Sideling Hill Barrens	39.73361	78.34694	United States	Pennsylvania	Fulton
+351	2.0 km SE Barnes Gap Sideling Hill Barrens	39.73138	20.35	United States	Pennsylvania	Fulton
+396	4.0 km SSE Alexandria Neff Limestone Barrens	40.53278	78.07972	United States	Pennsylvania	Huntingdon
+452	State Game Lands 102, 3 mi NE Union City	41.55	79.5	United States	Pennsylvania	Erie
+455	Winter-Chubb Farm 4.2 km NW Confluence	39.51	79.22	United States	Pennsylvania	Somerset
+463	Pymatuning State Park, Blackjack Swamp Natural Area, 5.3 km NW Linesville	41.68667	80.50667	United States	Pennsylvania	Crawford
+501	7.7 km SSW Cherry Grove	41.63194	79.18111	United States	Pennsylvania	Warren
+785	3.6 km WSW Long Pond, Long Pond Barrens	41.04028	75.5025	United States	Pennsylvania	Monroe
+1100	1 km SE Tamarack	41.41916	77.83611	United States	Pennsylvania	Clinton
+1145	Pittsburgh, Nine Mile Run	79.90833	-79.90917	United States	Pennsylvania	Allegheny
+1191	1.9 mi WNW of Pulaski	41.11972	80.47083	United States	Pennsylvania	Lawrence
+1198	4 km NE Ruff Creek, Moth Ridge	39.98722	80.14916	United States	Pennsylvania	Greene
+1212	5.1 km SW Rector, Powdermill Nature Reserve, Ravens Roost	40.15916	79.27388	United States	Pennsylvania	Westmoreland
+1233	2.0 km SE Barnes Gap Sideling Hill Barrens	39.73083	78.33888	United States	Pennsylvania	Fulton
+1294	3.2 km SE Alexandria, Neff Limstone Barrens	40.53388	78.07361	United States	Pennsylvania	Huntingdon
+1432	1.8 km NNE Oakdale, Stettlers Cabin Co. Park	40.41388	80.18	United States	Pennsylvania	Allegheny
+1475	Pymatuning State Park, Blackjack Swamp Natural Area, 5.0 km NW Linesville	41.68583	80.50194	United States	Pennsylvania	Crawford
+1488	3.7 km SW Cooksburg, Clarion River	41.31055	79.24444	United States	Pennsylvania	Clarion
+1810	7.3 km SSW Cherry Grove	41.63638	79.18111	United States	Pennsylvania	Warren
+2050	2.2 km NW Truemans	41.6325	79.15306	United States	Pennsylvania	Warren
+2340	8.6 km S Irvine, Hedgehog Run	41.76194	79.26167	United States	Pennsylvania	Warren
+2390	3.7 km WSW Long Pond, Long Pond Barrens	41.03777	75.50222	United States	Pennsylvania	Monroe
+2506	Nine Mile Run, Duck Hollow	40.41722	79.91583	United States	Pennsylvania	Allegheny
+2515	1.7 km SE Cooksburg, Clarion River, Cook Forest St. Park	41.32527	79.19055	United States	Pennsylvania	Forest
+2539	Pymatuning State Park, Blackjack Swamp Natural Area, 4.8 km NW Linesville	41.68306	80.5025	United States	Pennsylvania	Crawford
+2652	2.9 km SW Antes, Moshannon State Forest	40.9	78.08583	United States	Pennsylvania	Centre
+2816	5.2 km SE Long Pond, Bowers Gap Barrens	41.01833	75.42222	United States	Pennsylvania	Monroe
+2871	Pymatuning State Park, Blackjack Swamp Natural Area, 5.5 km NW Linesville	41.68722	80.50917	United States	Pennsylvania	Crawford
+2910	4.3 km SSW Marysville, State Game Lands 176, Scotia Barrens	40.76222	77.96972	United States	Pennsylvania	Centre
+2925	3.9 km SW Antes, Moshannon State Forest	40.88805	78.08777	United States	Pennsylvania	Centre
+2200	2.5 km SW Zapotitlan Salinas (Hwy 125)	18.18	97.13	MEXICO	Puebla	None or Unknown
+2729	5 km SSE Chila (Hwy 190)	17.95	98.11666	MEXICO	Puebla	None or Unknown
+2803	Leona Vicario, Reserva Ecologica El Eden	21.21667	87.18333	MEXICO	Quintana Roo	Benito JuÃ¡rez Municipality
+7	Nogales	31.3333	-110.9333	MEXICO	Sonora	None or Unknown
+1218	46 km W of Chihuahua-Sonora border, at Puente el Castillo	32.1	-108.79565	MEXICO	Sonora	None or Unknown
+474	Manning	-79.83083	-80.21111	United States	South Carolina	Clarendon
+71	Nolichucky Creek, 1.5 km SW Garber	36.20833	82.47611	United States	Tennessee	Washington
+450	10 km NNE Samburg at Walnut Log, Reelfoot Lake	36.46722	89.31888	United States	Tennessee	Obion
+1006	Great Smoky Mountains National Park, ATBI Plot, Cades Cove Oil Field	35.56278	83.49889	United States	Tennessee	Blount
+1036	Nickajack Lake, I-24	35.01	85.39	United States	Tennessee	Marion
+1679	11 km SE Brownsville	35.49333	89.17138	United States	Tennessee	Haywood
+1818	6.5 km N Samburg, Buck Basin, Reelfoot Lake	36.46722	89.31888	United States	Tennessee	Obion
+12	Mission, Bentsen-Rio Grande State Park	26.17207	-98.38411	United States	Texas	Hidalgo
+19	Eagle Pass	28.70889	-100.499	United States	Texas	Maverick
+27	12 mi W of Roma	26.40524	-99.2005	United States	Texas	Starr
+78	5 mi NW Breckenridge Hubbard Creek Lake	32.48	98.58	United States	Texas	Stephens
+86	Boquillas	29.19056	-102.9475	United States	Texas	Brewster
+91	Bentsen-Rio Grande [State] Park	26.1695	-98.38406	United States	Texas	Hidalgo
+99	Fort Bliss	31.7665	-106.51026	United States	Texas	El Paso
+108	Bentsen-Rio Grande	26.17119	-98.38259	United States	Texas	Hidalgo
+114	Candelaria	30.13222	-104.68111	United States	Texas	Presidio
+180	Bentsen-Rio Grande St. Pk.	26.17202	-98.38281	United States	Texas	Hidalgo
+260	18.8 km W Shamrock	35.22805	100.46166	United States	Texas	Wheeler
+281	Bentsen State Park 100 ft. near Mission	26.17102	-98.3779	United States	Texas	Hidalgo
+347	Laguna madre, 25 mi SE Harlingen	25.82714	-97.69583	United States	Texas	Cameron
+385	13 mi S of Del Rio	29.21278	-100.76661	United States	Texas	Kinney
+466	Bentsen-Rio Grande Valley State Park, near Mission	26.1799	-98.3839	United States	Texas	Hidalgo
+505	Las Palomas Wildlife Management Area, Anacua Unit [S of Santa Maria]	26.05642	-97.84827	United States	Texas	Cameron
+738	Big Bend Nat'l Park No. Rosillos Mts.	29.56722	103.26778	United States	Texas	Brewster
+825	Big Bend National Park, Boquillas	29.18508	-102.94928	United States	Texas	Brewster
+845	Los Ebanos	26.24306	-98.56139	United States	Texas	Hidalgo
+940	Lower Canyons, Rio Grande River	29.8752	-102.3234	United States	Texas	Brewster
+947	Bentsen State Park	26.16994	-98.3803	United States	Texas	Hidalgo
+988	Big Bend Nat'l Park	29.57278	103.27194	United States	Texas	Brewster
+1088	6.7 km W Concan along Dry Frio River	29.4875	99.78027	United States	Texas	Uvalde
+1185	Laredo	27.50611	-99.50722	United States	Texas	Webb
+1310	Big Bend Ranch SNA; La Sauceda. 2.6 mi. E.	29.47139	103.91417	United States	Texas	Presidio
+1456	10 km W mcLean	35.21472	100.70944	United States	Texas	Gray
+1557	24 mi S of Laredo	27.15756	-99.50722	United States	Texas	Zapata
+1689	Big Bend Nat'l Park Rosillos Mts.	29.56611	103.25667	United States	Texas	Brewster
+1750	Maverick Co., no specific locality	28.70396	-100.50627	United States	Texas	Maverick
+1828	Brownsville, Los Borregos	25.78917	-97.37116	United States	Texas	Cameron
+1866	7 mi S of Laredo	27.40445	-99.50722	United States	Texas	Webb
+2183	Big Bend Nat'l Park No. Rosillos Mts.	29.57222	103.23278	United States	Texas	Brewster
+2536	4.5 mi NE of Laredo	27.56593	-99.50334	United States	Texas	Webb
+2602	15 mi SE of Del Rio	29.2354	-100.79033	United States	Texas	Val Verde
+2703	Big Bend Ranch SNA	29.50556	103.87083	United States	Texas	Presidio
+3126	Big Bend National Park, Boquillas Canyon	29.21111	-102.88611	United States	Texas	Brewster
+479	St. Thomas	18.34	-64.95	United States	U. S. Virgin Islands	none
+728	Saint Croix Island	17.73448	-64.77419	United States	U. S. Virgin Islands	Saint Croix
+79	6.4 km SSW Bountiful Peak	40.90972	111.84	United States	Utah	Davis
+338	7.0 km SSW Bountiful Peak, North Stone Creek	40.90305	111.83666	United States	Utah	Davis
+633	5.2 km S Bountiful Peak	40.9175	111.81111	United States	Utah	Davis
+2207	2 km N Alburg	44.59	73.11	United States	Vermont	Grand Isle
+3310	12 km E Swanton	47.91667	-73.06667	United States	Vermont	Franklin
+134	Trout lake, Gleenwood Rd dry clearcut	45	121	United States	Washington	Klickitat
+528	2 mi NE Molson	49.00157	-119.16825	United States	Washington	Okanogan
+1952	Hwy 820 mm 23.5 Ellensburg Canyon	46	120	United States	Washington	Kittitas
+3087	11.2 km ESE Grand Coulee	47.90722	118.87194	United States	Washington	Lincoln
+25	0.8 km SW Bardane	39.35478	77.87354	United States	West Virginia	Jefferson
+44	4 km NW Sweet Springs, Salty Mountain Preserve	37.39	80.71	United States	West Virginia	Monroe
+140	0.5 km E North River Mills, Ice Mountain Preserve	39.21	78.3	United States	West Virginia	Hampshire
+195	5.2 km W of Cass	38.38777	79.97666	United States	West Virginia	Pocahontas
+201	7.3 km SW Martinsburg	39.40849	78.01974	United States	West Virginia	Berkeley
+269	6.5 km SSE Hopeville, E slope Nother Fork Mountain	38.54	79.16	United States	West Virginia	Grant
+810	15 km SW Petersburg	38.54	79.16	United States	West Virginia	Grant
+834	5.7 km S Martinsburg	39.41022	77.97818	United States	West Virginia	Berkeley
+1449	2 km SSE Cranesville, Cranesville Swamp Preserve	39.32	79.29	United States	West Virginia	Preston
+1831	12.3 km S Slatyfork along Route 150	38.30805	80.13583	United States	West Virginia	Pocahontas
+2083	3 km NE Keyser	39.44689	78.94552	United States	West Virginia	Mineral
+2381	5 km SW Martinsburg	39.42434	78.00202	United States	West Virginia	Berkeley
+491	24 km E Eagle River	45.56	88.58	United States	Wisconsin	Forest
+1014	5.8 km S Minong, rest area along Rt. 53	46.04861	91.83861	United States	Wisconsin	Washburn
+1786	Casco	44.55778	87.61806	United States	Wisconsin	Kewaunee

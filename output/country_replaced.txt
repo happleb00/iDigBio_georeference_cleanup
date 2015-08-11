@@ -1,0 +1,101 @@
+Locality	Latitude	Longitude	Country	State_Province	County
+1	Tecate, 3.4 mi S of El Condor	32.41751	-116.16666	MEXICO	Baja California Norte	None or Unknown
+2	22 km W of Parque Sierra San Pedro Martir	30.96	-115.85	MEXICO	Baja California Norte	None or Unknown
+4	38 km E of Rt 1 toward Parque San Pedro Martir	30.96	-115.82	MEXICO	Baja California Norte	None or Unknown
+10	Ensenada	31.86667	-116.61667	MEXICO	Baja California Norte	None or Unknown
+17	Valle de la Trinidad	NA	NA	MEXICO	Baja California Norte	Ensenada Municipality
+20	6.3 mi S of El Condor, Tecate	32.40423	-116.10917	MEXICO	Baja California Norte	None or Unknown
+21	Catavina	29.8667	-114.95	MEXICO	Baja California Norte	None or Unknown
+22	45 km N of Catavina on Hwy 1	29.96291	-115.09838	MEXICO	Baja California Norte	Ensenada Municipality
+40	25 km W of San Pedro Martir Observatory	30.9778	-115.60278	MEXICO	Baja California Norte	Ensenada Municipality
+42	3.5 mi W of Parque Sierra San Pedro Martir	30.98	-115.7	MEXICO	Baja California Norte	None or Unknown
+44	CataviÃ±a	NA	NA	MEXICO	Baja California Norte	Ensenada Municipality
+45	53 km W of Punta Prieta toward Bahia de los Angeles	28.97187	-113.73793	MEXICO	Baja California Norte	None or Unknown
+68	Tecate, 0.3 mi E of El Condor	32.46666	-116.16152	MEXICO	Baja California Norte	None or Unknown
+70	5 km N of Bahia de los Angeles	28.99509	-113.55	MEXICO	Baja California Norte	None or Unknown
+71	51 km W of Bahia de los Angeles	28.94	-114.07	MEXICO	Baja California Norte	None or Unknown
+82	7 km W of Parque Sierra San Pedro Martir	30.97	-115.68	MEXICO	Baja California Norte	None or Unknown
+109	12 mi E of El Rosario	30.1532	-115.53903	MEXICO	Baja California Norte	None or Unknown
+117	Tecate, 0.3 mi S of El Condor	32.46666	-116.16152	MEXICO	Baja California Norte	None or Unknown
+119	20 mi. W. San Jose de Caba	NA	NA	MEXICO	Baja California Norte	None or Unknown
+122	3.2 km S of San Quintin	30.53127	-115.93368	MEXICO	Baja California Norte	None or Unknown
+129	Villa Juarez	NA	NA	MEXICO	Baja California Norte	None or Unknown
+130	San Martin Island	NA	NA	MEXICO	Baja California Norte	None or Unknown
+132	9.2 km W of Bahia de Los Angeles	28.97266	-113.63212	MEXICO	Baja California Norte	None or Unknown
+136	San Lorenzo Island	NA	NA	MEXICO	Baja California Norte	None or Unknown
+150	66 km E of Hwy 1 to San Pedro Martir	30.9653	-115.6068	MEXICO	Baja California Norte	Ensenada Municipality
+153	N of San Pedro Martir	31.1794	-115.607	MEXICO	Baja California Norte	Ensenada Municipality
+163	15 mi N Punta Prieta	NA	NA	MEXICO	Baja California Norte	None or Unknown
+179	6 mi S of San Felipe	30.95486	-114.77906	MEXICO	Baja California Norte	None or Unknown
+191	1.5 km W of Parque Sierra San Pedro Martir	30.98	-115.61	MEXICO	Baja California Norte	None or Unknown
+196	San Luis	28.43333	-113.75	MEXICO	Baja California Norte	None or Unknown
+243	41 km W of Parque Sierra San Pedro Martir	30.96	-115.97	MEXICO	Baja California Norte	None or Unknown
+299	13 mi N of Punta Prieta	29	-114.4	MEXICO	Baja California Norte	None or Unknown
+314	San Quentin	NA	NA	MEXICO	Baja California Norte	None or Unknown
+325	La Zapopita	NA	NA	MEXICO	Baja California Norte	None or Unknown
+368	San Telmo Canyon	30.97977	-116.0946	MEXICO	Baja California Norte	None or Unknown
+378	2 km S of NP de Constitucion	32.0097	-115.94785	MEXICO	Baja California Norte	Ensenada Municipality
+393	Angel de la Guardia Island, Palm Canyon	29.33333	-113.41666	MEXICO	Baja California Norte	None or Unknown
+436	44 km S of Tijuana	32.19768	-116.91037	MEXICO	Baja California Norte	None or Unknown
+466	Arroyo Calamajue	NA	NA	MEXICO	Baja California Norte	None or Unknown
+475	Santo Domingo, 5.7 mi. E Hamilton Ranch dam site	NA	NA	MEXICO	Baja California Norte	None or Unknown
+483	2 mi S of Ensenada, at Rancho Todos Santos	31.84	-116.6	MEXICO	Baja California Norte	None or Unknown
+510	44.5 km E of Rt 1 toward Parque San Pedro Martir	30.97935	-115.73089	MEXICO	Baja California Norte	None or Unknown
+523	San Felipe	NA	NA	MEXICO	Baja California Norte	Mexicali Municipality
+559	26 mi S of San Felipe	30.66071	-114.75003	MEXICO	Baja California Norte	Mexicali Municipality
+570	Arroyo Lluway, 52 km WNW; 2 km N. Bahia de Los Angeles	NA	NA	MEXICO	Baja California Norte	Ensenada Municipality
+613	5 km N of Hwy 3 to NP Constitucion	31.88525	-116.11113	MEXICO	Baja California Norte	Ensenada Municipality
+617	San Felipe (city of)	31	-114.86666	MEXICO	Baja California Norte	Mexicali Municipality
+652	32mi. S. San Felipe-Beach Dunes	NA	NA	MEXICO	Baja California Norte	None or Unknown
+660	23 mi S El Marmol, Rancho San Luis	NA	NA	MEXICO	Baja California Norte	None or Unknown
+675	San Pedro Martir	31.01652	-115.61317	MEXICO	Baja California Norte	None or Unknown
+686	22 mi W of Parque Nacional Sierra San Pedro Martir	30.77483	-115.6115	MEXICO	Baja California Norte	None or Unknown
+723	2 mi W of Las Encinas, Sierra San Pedro Martir	30.98	-115.65	MEXICO	Baja California Norte	None or Unknown
+740	San Miguel	NA	NA	MEXICO	Baja California Norte	None or Unknown
+752	21 mi NW of Rancho Chapala	29.52549	-114.50183	MEXICO	Baja California Norte	None or Unknown
+772	El Consuelo Dunes	30.15	-115.78333	MEXICO	Baja California Norte	None or Unknown
+806	Arroyo Seco	NA	NA	MEXICO	Baja California Norte	Ensenada Municipality
+883	Sierra Juarez, 12 mi S of Mexicali-Tecate Hwy. along road to E Topo Ranch	32.3716	-115.99572	MEXICO	Baja California Norte	None or Unknown
+908	0.3 mi SE Catavina in arroyo	NA	NA	MEXICO	Baja California Norte	Ensenada Municipality
+917	Bahia de los Angeles	NA	NA	MEXICO	Baja California Norte	Bahia de los Angeles
+948	15 mi S. San Felipe	NA	NA	MEXICO	Baja California Norte	Mexicali Municipality
+1082	38 km E Rt 1 to Parque San Pedro Martir	30.96	-115.82	MEXICO	Baja California Norte	None or Unknown
+1125	Punta Prieta, 15 miles north of	NA	NA	MEXICO	Baja California Norte	None or Unknown
+1212	36 km off Hwy 1 to San Pedro Martir	30.9555	-115.85553	MEXICO	Baja California Norte	Ensenada Municipality
+1220	36 km W of Bahia de Los Angeles	29.03075	-113.86392	MEXICO	Baja California Norte	None or Unknown
+1250	7 mi SE of Maneadero	31.6451	-116.48261	MEXICO	Baja California Norte	None or Unknown
+1262	6.4 mi. N. of Todos Santos, road to La Paz	NA	NA	MEXICO	Baja California Norte	None or Unknown
+1323	12 mi SE of Maneadero	31.59399	-116.42265	MEXICO	Baja California Norte	None or Unknown
+1401	5.4 mi NW Catavina	NA	NA	MEXICO	Baja California Norte	Ensenada Municipality
+1449	Colonet, beach wash	NA	NA	MEXICO	Baja California Norte	None or Unknown
+1452	Sierra de Calamajue	NA	NA	MEXICO	Baja California Norte	None or Unknown
+1491	Tijuana	32.5333	-117.0167	MEXICO	Baja California Norte	None or Unknown
+1493	Sierra San Pedro Martir, La Grulla	NA	NA	MEXICO	Baja California Norte	None or Unknown
+1584	El Rosario, 10 miles southeast of	NA	NA	MEXICO	Baja California Norte	None or Unknown
+1693	9 mi S of San Augustin	29.86559	-114.84362	MEXICO	Baja California Norte	None or Unknown
+1729	San Vicente	31.32473	-116.24734	MEXICO	Baja California Norte	None or Unknown
+1840	Punta Prieta, 10 miles south of	NA	NA	MEXICO	Baja California Norte	None or Unknown
+1850	16 mi S of Mexicali	NA	NA	MEXICO	Baja California Norte	Mexicali Municipality
+1870	15mi. S of San Felipe	NA	NA	MEXICO	Baja California Norte	None or Unknown
+1901	5. mi. N. Catarina	NA	NA	MEXICO	Baja California Norte	None or Unknown
+2083	36 mi SE of El Rosario, Rancho El Progresso	29.67	-115.28	MEXICO	Baja California Norte	None or Unknown
+2097	13 km N Rosarito (114 deg W; km 40)	NA	NA	MEXICO	Baja California Norte	None or Unknown
+2234	Hamilton Ranch	NA	NA	MEXICO	Baja California Norte	None or Unknown
+2387	Mezquital, 23 mi. SE (Arroyo San Luis)	28.01488	-113.68367	MEXICO	Baja California Norte	None or Unknown
+2397	25 mi W of Bahia de Los Angeles	28.94966	-113.63268	MEXICO	Baja California Norte	None or Unknown
+2462	8 mi upstream from Hamilton Ranch	NA	NA	MEXICO	Baja California Norte	None or Unknown
+2488	10 mi S Catavina	NA	NA	MEXICO	Baja California Norte	Ensenada Municipality
+2496	El Rosario, 5 miles east of	NA	NA	MEXICO	Baja California Norte	None or Unknown
+2515	90 km E of San Telmo	31.01817	-115.47063	MEXICO	Baja California Norte	None or Unknown
+2544	Punta Prieta	NA	NA	MEXICO	Baja California Norte	None or Unknown
+2685	San Quintin	30.56071	-115.94073	MEXICO	Baja California Norte	None or Unknown
+2791	3.7 mi W El Rosario	NA	NA	MEXICO	Baja California Norte	None or Unknown
+2817	60 km. S of Tijuana	NA	NA	MEXICO	Baja California Norte	None or Unknown
+2858	Gonzaga Bay	NA	NA	MEXICO	Baja California Norte	None or Unknown
+3199	6 km W San Telmo	NA	NA	MEXICO	Baja California Norte	None or Unknown
+3309	Millers Landing, S.W. Rosarito	28.49139	-114.06346	MEXICO	Baja California Norte	None or Unknown
+3447	10 mi S of Chapala	29.30165	-114.25131	MEXICO	Baja California Norte	None or Unknown
+3464	La Barrera	NA	NA	MEXICO	Baja California Norte	None or Unknown
+3660	19 mi. N San Felipe	NA	NA	MEXICO	Baja California Norte	Mexicali Municipality
+3833	Socorro San Dunes	NA	NA	MEXICO	Baja California Norte	None or Unknown
+3911	Punta San Fermin	NA	NA	MEXICO	Baja California Norte	None or Unknown

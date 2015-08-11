@@ -1,0 +1,102 @@
+Locality	Latitude	Longitude	Country	State_Province	County
+367	2.2 km SSE Wilmington	39.72324	75.53532	United States	Delaware	New Castle
+302	3.5 km ESE Cape Sandy, Ohio River	38.13638	86.33388	United States	Indiana	Crawford
+52	near SE end of Munsungan Lake, North Maine Woods	46.22	68.57	United States	Maine	Piscataquis
+67	Medway	45.6089	68.5308	United States	Maine	Penobscot
+85	3 km S Oquossoc, near Rangeley Lake	44.57	70.45	United States	Maine	Franklin
+201	16 km SSE Estcourt, North Maine Woods Inc.	47.16	69.14	United States	Maine	Aroostook
+344	15 km W Fort Kent, St. John River, south bend	47.13	68.47	United States	Maine	Aroostook
+444	18 km S Estcourt, near Little Black River, North Maine Woods Inc.	47.17	69.21	United States	Maine	Aroostook
+207	Andrew's Air Force Base	38.798	76.8926	United States	Maryland	Prince George's
+623	Baltimore-Washington Int. Airport	39.1843	76.6538	United States	Maryland	Anne Arundel
+406	Mount Toby, Cranberry Pond	42.48778	72.5375	United States	Massachusetts	Franklin
+134	7.4 km ENE Crystal Valley, Michigan Womyn's Music Festival	43.81361	86.15361	United States	Michigan	Oceana
+100	11 mi. SW of Lucedale	30.8	88.7	United States	Mississippi	George
+516	Natchez Trace mi 252	34.14972	88.81861	United States	Mississippi	Lee
+622	11 mi SW of Lucedale Pascagoula River	30.8	88.7	United States	Mississippi	George
+66	4 km N Colebrook	44.56	71.25	United States	New Hampshire	Coos
+22	1.9 km E Marksboro	40.98827	74.88438	United States	New Jersey	Warren
+49	3.2 km WSW Tuckahoe Belleplain State Forest	39.28208	74.79011	United States	New Jersey	Cape May
+313	Marlton	39.90189	74.92928	United States	New Jersey	Burlington
+466	3.5 km SE Glen Gardner	40.67876	74.9153	United States	New Jersey	Hunterdon
+6	Savannah	43.075	76.76	United States	New York	Wayne
+58	Great Gully Preserve, TNC	42.80972	76.67722	United States	New York	Cayuga
+124	Round Island, Bear Mountain State Park	41.3	73.97	United States	New York	Rockland
+170	Town of Coeymens Landfill	42.48361	73.84781	United States	New York	Albany
+184	Wm. Schneider, private property	43.00583	76.40805	United States	New York	Onondaga
+295	Robert G. Wehle State Park	43.87327	76.26338	United States	New York	Jefferson
+15	Cape Hatteras Island, Buxton	35.25019	75.56768	United States	North Carolina	Dare
+29	Great Smoky Mountains National Park, ATBI Plot, Cataloochee	35.58611	83.08167	United States	North Carolina	Haywood
+44	Great Smoky Mountains National Park, ATBI Plot, Andrews Bald	35.55646	83.49591	United States	North Carolina	Swain
+408	off Rt. 1325	34.78498	78.6527	United States	North Carolina	Bladen
+458	Crossnore 6111 Linville Falls Hwy	36.01947	81.92575	United States	North Carolina	Avery
+548	St. Rd. 1401 @ Eno River	36.059	78.978	United States	North Carolina	Durham
+1	Scioto Trail State Forest	39.21833	82.95166	United States	Ohio	Ross
+30	Conneaut Twp., 1 km E Conneaut River, 1 km S Lake Erie	41.58	80.32	United States	Ohio	Ashtabula
+101	Orange Twp., Azalea Road	40.26	81.18	United States	Ohio	Carroll
+162	Valley Twp., 8 km SSW Byesville	39.54	81.37	United States	Ohio	Guernsey
+243	Archer Twp., 9 km N Cadiz	40.2	81.02	United States	Ohio	Harrison
+382	Metro Parks, Carlisle Twp.	41.18	82.07	United States	Ohio	Lorain
+386	Metro Parks, Brownhelm Twp., Vermilion River Valley, 5 km S Lake Erie	41.23	82.19	United States	Ohio	Lorain
+604	Know Township, 14 km NW Cambridge	40.08	81.42	United States	Ohio	Guernsey
+2	1.4 km SSE Barnes Gap Sideling Hill Barrens	39.73277	78.34694	United States	Pennsylvania	Fulton
+7	Pittsburhg, Nine Mile Run, Duck Hollow	40.41722	79.91583	United States	Pennsylvania	Allegheny
+8	4.7 km SSW Galeton	41.69167	77.65472	United States	Pennsylvania	Potter
+10	Forward Township	40.20667	79.85778	United States	Pennsylvania	Allegheny
+16	Sewickley Heights	40.55722	80.14139	United States	Pennsylvania	Allegheny
+17	2.9 km ESE Alexandria Neff Limestone Barrens	40.54277	78.06861	United States	Pennsylvania	Huntingdon
+19	Collier Township	40.42111	80.14111	United States	Pennsylvania	Allegheny
+33	Penn Twnsh	40.38866	79.66158	United States	Pennsylvania	Allegheny
+34	4.9 km SE Long Pond, Bowers Gap Barrens	41.01972	75.425	United States	Pennsylvania	Monroe
+35	4 km NE Ruff Creek, Moth Ridge	39.59	80.09	United States	Pennsylvania	Greene
+64	4.7 km SE Long Pond, Bowers Gap Barrens	41.02083	75.4275	United States	Pennsylvania	Monroe
+65	1.4 km SE Barnes Gap Sideling Hill Barrens	39.73361	78.34694	United States	Pennsylvania	Fulton
+80	4.0 km SSE Alexandria Neff Limestone Barrens	40.53278	78.07972	United States	Pennsylvania	Huntingdon
+90	State Game Lands 102, 3 mi NE Union City	41.55	79.5	United States	Pennsylvania	Erie
+92	Winter-Chubb Farm 4.2 km NW Confluence	39.51	79.22	United States	Pennsylvania	Somerset
+95	Pymatuning State Park, Blackjack Swamp Natural Area, 5.3 km NW Linesville	41.68667	80.50667	United States	Pennsylvania	Crawford
+102	7.7 km SSW Cherry Grove	41.63194	79.18111	United States	Pennsylvania	Warren
+153	3.6 km WSW Long Pond, Long Pond Barrens	41.04028	75.5025	United States	Pennsylvania	Monroe
+212	1 km SE Tamarack	41.41916	77.83611	United States	Pennsylvania	Clinton
+233	1.9 mi WNW of Pulaski	41.11972	80.47083	United States	Pennsylvania	Lawrence
+236	4 km NE Ruff Creek, Moth Ridge	39.98722	80.14916	United States	Pennsylvania	Greene
+240	5.1 km SW Rector, Powdermill Nature Reserve, Ravens Roost	40.15916	79.27388	United States	Pennsylvania	Westmoreland
+242	2.0 km SE Barnes Gap Sideling Hill Barrens	39.73083	78.33888	United States	Pennsylvania	Fulton
+259	3.2 km SE Alexandria, Neff Limstone Barrens	40.53388	78.07361	United States	Pennsylvania	Huntingdon
+279	1.8 km NNE Oakdale, Stettlers Cabin Co. Park	40.41388	80.18	United States	Pennsylvania	Allegheny
+287	Pymatuning State Park, Blackjack Swamp Natural Area, 5.0 km NW Linesville	41.68583	80.50194	United States	Pennsylvania	Crawford
+291	3.7 km SW Cooksburg, Clarion River	41.31055	79.24444	United States	Pennsylvania	Clarion
+349	7.3 km SSW Cherry Grove	41.63638	79.18111	United States	Pennsylvania	Warren
+392	2.2 km NW Truemans	41.6325	79.15306	United States	Pennsylvania	Warren
+441	8.6 km S Irvine, Hedgehog Run	41.76194	79.26167	United States	Pennsylvania	Warren
+451	3.7 km WSW Long Pond, Long Pond Barrens	41.03777	75.50222	United States	Pennsylvania	Monroe
+469	Nine Mile Run, Duck Hollow	40.41722	79.91583	United States	Pennsylvania	Allegheny
+470	1.7 km SE Cooksburg, Clarion River, Cook Forest St. Park	41.32527	79.19055	United States	Pennsylvania	Forest
+472	Pymatuning State Park, Blackjack Swamp Natural Area, 4.8 km NW Linesville	41.68306	80.5025	United States	Pennsylvania	Crawford
+506	2.9 km SW Antes, Moshannon State Forest	40.9	78.08583	United States	Pennsylvania	Centre
+541	5.2 km SE Long Pond, Bowers Gap Barrens	41.01833	75.42222	United States	Pennsylvania	Monroe
+550	Pymatuning State Park, Blackjack Swamp Natural Area, 5.5 km NW Linesville	41.68722	80.50917	United States	Pennsylvania	Crawford
+556	4.3 km SSW Marysville, State Game Lands 176, Scotia Barrens	40.76222	77.96972	United States	Pennsylvania	Centre
+558	3.9 km SW Antes, Moshannon State Forest	40.88805	78.08777	United States	Pennsylvania	Centre
+534	Leona Vicario, Reserva Ecologica El Eden	21.21667	87.18333	MEXICO	Quintana Roo	Benito JuÃ¡rez Municipality
+13	Nolichucky Creek, 1.5 km SW Garber	36.20833	82.47611	United States	Tennessee	Washington
+89	10 km NNE Samburg at Walnut Log, Reelfoot Lake	36.46722	89.31888	United States	Tennessee	Obion
+192	Great Smoky Mountains National Park, ATBI Plot, Cades Cove Oil Field	35.56278	83.49889	United States	Tennessee	Blount
+197	Nickajack Lake, I-24	35.01	85.39	United States	Tennessee	Marion
+325	11 km SE Brownsville	35.49333	89.17138	United States	Tennessee	Haywood
+350	6.5 km N Samburg, Buck Basin, Reelfoot Lake	36.46722	89.31888	United States	Tennessee	Obion
+425	2 km N Alburg	44.59	73.11	United States	Vermont	Grand Isle
+5	0.8 km SW Bardane	39.35478	77.87354	United States	West Virginia	Jefferson
+9	4 km NW Sweet Springs, Salty Mountain Preserve	37.39	80.71	United States	West Virginia	Monroe
+24	0.5 km E North River Mills, Ice Mountain Preserve	39.21	78.3	United States	West Virginia	Hampshire
+36	5.2 km W of Cass	38.38777	79.97666	United States	West Virginia	Pocahontas
+39	7.3 km SW Martinsburg	39.40849	78.01974	United States	West Virginia	Berkeley
+55	6.5 km SSE Hopeville, E slope Nother Fork Mountain	38.54	79.16	United States	West Virginia	Grant
+157	15 km SW Petersburg	38.54	79.16	United States	West Virginia	Grant
+163	5.7 km S Martinsburg	39.41022	77.97818	United States	West Virginia	Berkeley
+281	2 km SSE Cranesville, Cranesville Swamp Preserve	39.32	79.29	United States	West Virginia	Preston
+354	12.3 km S Slatyfork along Route 150	38.30805	80.13583	United States	West Virginia	Pocahontas
+399	3 km NE Keyser	39.44689	78.94552	United States	West Virginia	Mineral
+448	5 km SW Martinsburg	39.42434	78.00202	United States	West Virginia	Berkeley
+98	24 km E Eagle River	45.56	88.58	United States	Wisconsin	Forest
+347	Casco	44.55778	87.61806	United States	Wisconsin	Kewaunee
