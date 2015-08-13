@@ -1,0 +1,292 @@
+Locality	Latitude	Longitude	Country	State_Province	County
+1	Tecate, 3.4 mi S of El Condor	32.41751	-116.16666	MEXICO	Baja California Norte	None or Unknown
+2	22 km W of Parque Sierra San Pedro Martir	30.96	-115.85	MEXICO	Baja California Norte	None or Unknown
+7	38 km E of Rt 1 toward Parque San Pedro Martir	30.96	-115.82	MEXICO	Baja California Norte	None or Unknown
+26	Ensenada	31.86667	-116.61667	MEXICO	Baja California Norte	None or Unknown
+37	Valle de la Trinidad	NA	NA	MEXICO	Baja California Norte	Ensenada Municipality
+42	6.3 mi S of El Condor, Tecate	32.40423	-116.10917	MEXICO	Baja California Norte	None or Unknown
+43	Catavina	29.8667	-114.95	MEXICO	Baja California Norte	None or Unknown
+46	45 km N of Catavina on Hwy 1	29.96291	-115.09838	MEXICO	Baja California Norte	Ensenada Municipality
+83	25 km W of San Pedro Martir Observatory	30.9778	-115.60278	MEXICO	Baja California Norte	Ensenada Municipality
+87	3.5 mi W of Parque Sierra San Pedro Martir	30.98	-115.7	MEXICO	Baja California Norte	None or Unknown
+90	CataviÃ±a	NA	NA	MEXICO	Baja California Norte	Ensenada Municipality
+91	53 km W of Punta Prieta toward Bahia de los Angeles	28.97187	-113.73793	MEXICO	Baja California Norte	None or Unknown
+157	Tecate, 0.3 mi E of El Condor	32.46666	-116.16152	MEXICO	Baja California Norte	None or Unknown
+160	5 km N of Bahia de los Angeles	28.99509	-113.55	MEXICO	Baja California Norte	None or Unknown
+161	51 km W of Bahia de los Angeles	28.94	-114.07	MEXICO	Baja California Norte	None or Unknown
+188	7 km W of Parque Sierra San Pedro Martir	30.97	-115.68	MEXICO	Baja California Norte	None or Unknown
+243	12 mi E of El Rosario	30.1532	-115.53903	MEXICO	Baja California Norte	None or Unknown
+262	Tecate, 0.3 mi S of El Condor	32.46666	-116.16152	MEXICO	Baja California Norte	None or Unknown
+265	20 mi. W. San Jose de Caba	NA	NA	MEXICO	Baja California Norte	None or Unknown
+269	3.2 km S of San Quintin	30.53127	-115.93368	MEXICO	Baja California Norte	None or Unknown
+284	Villa Juarez	NA	NA	MEXICO	Baja California Norte	None or Unknown
+285	San Martin Island	NA	NA	MEXICO	Baja California Norte	None or Unknown
+290	9.2 km W of Bahia de Los Angeles	28.97266	-113.63212	MEXICO	Baja California Norte	None or Unknown
+308	San Lorenzo Island	NA	NA	MEXICO	Baja California Norte	None or Unknown
+335	66 km E of Hwy 1 to San Pedro Martir	30.9653	-115.6068	MEXICO	Baja California Norte	Ensenada Municipality
+345	N of San Pedro Martir	31.1794	-115.607	MEXICO	Baja California Norte	Ensenada Municipality
+377	15 mi N Punta Prieta	NA	NA	MEXICO	Baja California Norte	None or Unknown
+412	6 mi S of San Felipe	30.95486	-114.77906	MEXICO	Baja California Norte	None or Unknown
+434	1.5 km W of Parque Sierra San Pedro Martir	30.98	-115.61	MEXICO	Baja California Norte	None or Unknown
+448	San Luis	28.43333	-113.75	MEXICO	Baja California Norte	None or Unknown
+528	41 km W of Parque Sierra San Pedro Martir	30.96	-115.97	MEXICO	Baja California Norte	None or Unknown
+651	13 mi N of Punta Prieta	29	-114.4	MEXICO	Baja California Norte	None or Unknown
+689	San Quentin	NA	NA	MEXICO	Baja California Norte	None or Unknown
+714	La Zapopita	NA	NA	MEXICO	Baja California Norte	None or Unknown
+815	San Telmo Canyon	30.97977	-116.0946	MEXICO	Baja California Norte	None or Unknown
+833	2 km S of NP de Constitucion	32.0097	-115.94785	MEXICO	Baja California Norte	Ensenada Municipality
+852	Angel de la Guardia Island, Palm Canyon	29.33333	-113.41666	MEXICO	Baja California Norte	None or Unknown
+959	44 km S of Tijuana	32.19768	-116.91037	MEXICO	Baja California Norte	None or Unknown
+1016	Arroyo Calamajue	NA	NA	MEXICO	Baja California Norte	None or Unknown
+1035	Santo Domingo, 5.7 mi. E Hamilton Ranch dam site	NA	NA	MEXICO	Baja California Norte	None or Unknown
+1053	2 mi S of Ensenada, at Rancho Todos Santos	31.84	-116.6	MEXICO	Baja California Norte	None or Unknown
+1104	44.5 km E of Rt 1 toward Parque San Pedro Martir	30.97935	-115.73089	MEXICO	Baja California Norte	None or Unknown
+1132	San Felipe	NA	NA	MEXICO	Baja California Norte	Mexicali Municipality
+1218	26 mi S of San Felipe	30.66071	-114.75003	MEXICO	Baja California Norte	Mexicali Municipality
+1252	Arroyo Lluway, 52 km WNW; 2 km N. Bahia de Los Angeles	NA	NA	MEXICO	Baja California Norte	Ensenada Municipality
+1358	5 km N of Hwy 3 to NP Constitucion	31.88525	-116.11113	MEXICO	Baja California Norte	Ensenada Municipality
+1365	San Felipe (city of)	31	-114.86666	MEXICO	Baja California Norte	Mexicali Municipality
+1443	32mi. S. San Felipe-Beach Dunes	NA	NA	MEXICO	Baja California Norte	None or Unknown
+1458	23 mi S El Marmol, Rancho San Luis	NA	NA	MEXICO	Baja California Norte	None or Unknown
+1493	San Pedro Martir	31.01652	-115.61317	MEXICO	Baja California Norte	None or Unknown
+1514	22 mi W of Parque Nacional Sierra San Pedro Martir	30.77483	-115.6115	MEXICO	Baja California Norte	None or Unknown
+1598	2 mi W of Las Encinas, Sierra San Pedro Martir	30.98	-115.65	MEXICO	Baja California Norte	None or Unknown
+1639	San Miguel	NA	NA	MEXICO	Baja California Norte	None or Unknown
+1664	21 mi NW of Rancho Chapala	29.52549	-114.50183	MEXICO	Baja California Norte	None or Unknown
+1714	El Consuelo Dunes	30.15	-115.78333	MEXICO	Baja California Norte	None or Unknown
+1785	Arroyo Seco	NA	NA	MEXICO	Baja California Norte	Ensenada Municipality
+1961	Sierra Juarez, 12 mi S of Mexicali-Tecate Hwy. along road to E Topo Ranch	32.3716	-115.99572	MEXICO	Baja California Norte	None or Unknown
+2029	0.3 mi SE Catavina in arroyo	NA	NA	MEXICO	Baja California Norte	Ensenada Municipality
+2051	Bahia de los Angeles	NA	NA	MEXICO	Baja California Norte	Bahia de los Angeles
+2128	15 mi S. San Felipe	NA	NA	MEXICO	Baja California Norte	Mexicali Municipality
+2432	38 km E Rt 1 to Parque San Pedro Martir	30.96	-115.82	MEXICO	Baja California Norte	None or Unknown
+2522	Punta Prieta, 15 miles north of	NA	NA	MEXICO	Baja California Norte	None or Unknown
+2756	36 km off Hwy 1 to San Pedro Martir	30.9555	-115.85553	MEXICO	Baja California Norte	Ensenada Municipality
+2780	36 km W of Bahia de Los Angeles	29.03075	-113.86392	MEXICO	Baja California Norte	None or Unknown
+2867	7 mi SE of Maneadero	31.6451	-116.48261	MEXICO	Baja California Norte	None or Unknown
+2889	6.4 mi. N. of Todos Santos, road to La Paz	NA	NA	MEXICO	Baja California Norte	None or Unknown
+3017	12 mi SE of Maneadero	31.59399	-116.42265	MEXICO	Baja California Norte	None or Unknown
+3172	5.4 mi NW Catavina	NA	NA	MEXICO	Baja California Norte	Ensenada Municipality
+3284	Colonet, beach wash	NA	NA	MEXICO	Baja California Norte	None or Unknown
+3289	Sierra de Calamajue	NA	NA	MEXICO	Baja California Norte	None or Unknown
+3394	Tijuana	32.5333	-117.0167	MEXICO	Baja California Norte	None or Unknown
+3396	Sierra San Pedro Martir, La Grulla	NA	NA	MEXICO	Baja California Norte	None or Unknown
+3626	El Rosario, 10 miles southeast of	NA	NA	MEXICO	Baja California Norte	None or Unknown
+3844	9 mi S of San Augustin	29.86559	-114.84362	MEXICO	Baja California Norte	None or Unknown
+3929	San Vicente	31.32473	-116.24734	MEXICO	Baja California Norte	None or Unknown
+4220	Punta Prieta, 10 miles south of	NA	NA	MEXICO	Baja California Norte	None or Unknown
+4237	16 mi S of Mexicali	NA	NA	MEXICO	Baja California Norte	Mexicali Municipality
+4283	15mi. S of San Felipe	NA	NA	MEXICO	Baja California Norte	None or Unknown
+4347	5. mi. N. Catarina	NA	NA	MEXICO	Baja California Norte	None or Unknown
+4827	36 mi SE of El Rosario, Rancho El Progresso	29.67	-115.28	MEXICO	Baja California Norte	None or Unknown
+4871	13 km N Rosarito (114 deg W; km 40)	NA	NA	MEXICO	Baja California Norte	None or Unknown
+5158	Hamilton Ranch	NA	NA	MEXICO	Baja California Norte	None or Unknown
+5492	Mezquital, 23 mi. SE (Arroyo San Luis)	28.01488	-113.68367	MEXICO	Baja California Norte	None or Unknown
+5509	25 mi W of Bahia de Los Angeles	28.94966	-113.63268	MEXICO	Baja California Norte	None or Unknown
+5652	8 mi upstream from Hamilton Ranch	NA	NA	MEXICO	Baja California Norte	None or Unknown
+5707	10 mi S Catavina	NA	NA	MEXICO	Baja California Norte	Ensenada Municipality
+5721	El Rosario, 5 miles east of	NA	NA	MEXICO	Baja California Norte	None or Unknown
+5760	90 km E of San Telmo	31.01817	-115.47063	MEXICO	Baja California Norte	None or Unknown
+5822	Punta Prieta	NA	NA	MEXICO	Baja California Norte	None or Unknown
+6153	San Quintin	30.56071	-115.94073	MEXICO	Baja California Norte	None or Unknown
+6375	3.7 mi W El Rosario	NA	NA	MEXICO	Baja California Norte	None or Unknown
+6429	60 km. S of Tijuana	NA	NA	MEXICO	Baja California Norte	None or Unknown
+6535	Gonzaga Bay	NA	NA	MEXICO	Baja California Norte	None or Unknown
+7306	6 km W San Telmo	NA	NA	MEXICO	Baja California Norte	None or Unknown
+7551	Millers Landing, S.W. Rosarito	28.49139	-114.06346	MEXICO	Baja California Norte	None or Unknown
+7868	10 mi S of Chapala	29.30165	-114.25131	MEXICO	Baja California Norte	None or Unknown
+7897	La Barrera	NA	NA	MEXICO	Baja California Norte	None or Unknown
+8374	19 mi. N San Felipe	NA	NA	MEXICO	Baja California Norte	Mexicali Municipality
+8773	Socorro San Dunes	NA	NA	MEXICO	Baja California Norte	None or Unknown
+8949	Punta San Fermin	NA	NA	MEXICO	Baja California Norte	None or Unknown
+10	Dorchester House	38.92288	-77.03675	United States	District of Columbia	None
+11	Washington D.C.	38.895	-77.03667	United States	District of Columbia	None
+34	Chain Bridge, Washington DC	38.93027	-77.11444	United States	District of Columbia	None
+36	Dorchester House Roof, Washington, D. C.	38.92288	-77.03675	United States	District of Columbia	None
+45	Washington	38.89025	-77.0263	United States	District of Columbia	None
+52	Rock Creek Cemetary	38.94777	-77.01305	United States	District of Columbia	None
+99	Dorchester House Roof	38.92288	-77.03675	United States	District of Columbia	None
+105	National Arboretum, Washington	38.91535	-76.95653	United States	District of Columbia	None
+128	12th Street and Independence Avenue	38.88774	-77.02796	United States	District of Columbia	None
+131	Kenilworth Park	NA	NA	United States	District of Columbia	None
+186	Botanical Gardens	NA	NA	United States	District of Columbia	None
+208	Cosmos Club	38.91145	-77.04747	United States	District of Columbia	None
+279	D.C. Botanical Gardens	38.88811	-77.01285	United States	District of Columbia	None
+322	United States Botanic Garden	38.88814	-77.01289	United States	District of Columbia	None
+347	Chain Bridge	NA	NA	United States	District of Columbia	None
+351	National Arboretum, Washington	38.90817	-77.05105	United States	District of Columbia	None
+353	Unknown	NA	NA	United States	District of Columbia	None
+387	Washington  D.C.	NA	NA	United States	District of Columbia	None
+388	none	38.90706	-77.03476	United States	District of Columbia	None
+450	Meridian Hill Park	38.92173	-77.03577	United States	District of Columbia	None
+541	Georgetown College	38.90722	-77.07278	United States	District of Columbia	None
+586	near Benning	NA	NA	United States	District of Columbia	None
+601	10th Street NW & Constitution Ave NW	38.89209	-77.02598	United States	District of Columbia	None
+676	USDA Agricultural Research Service, Washington DC	38.88733	-77.03286	United States	District of Columbia	None
+711	Dorchester Parking Lot, Washington, D. C.	38.92243	-77.0385	United States	District of Columbia	None
+795	Washington	NA	NA	United States	District of Columbia	None
+867	East Potomac Park	NA	NA	United States	District of Columbia	None
+941	Capitol Hill	38.88255	-76.99734	United States	District of Columbia	None
+1079	DuPont Plaza Hotel	38.9105	-77.04277	United States	District of Columbia	None
+1193	Rock Creek Park	38.97194	-77.04667	United States	District of Columbia	None
+1246	Washington DC	NA	NA	United States	District of Columbia	None
+1442	Anacostia	38.8664	-76.9842	United States	District of Columbia	None
+1478	12 and C Streets, southwest	38.88611	-77.02813	United States	District of Columbia	None
+1498	Meridian Hill Hotel	NA	NA	United States	District of Columbia	None
+1564	12th Street between Independence avenue and C street	38.88684	-77.02809	United States	District of Columbia	None
+1737	Washington DC	38.89178	-77.00831	United States	District of Columbia	None
+1820	Washington, D. C., Dorcester House	NA	NA	United States	District of Columbia	None
+1859	Rock Creek, Washington	38.90817	-77.05105	United States	District of Columbia	None
+2047	Unknown	38.90706	-77.03476	United States	District of Columbia	None
+2052	Rock Creek Park	38.678	-77.0468	United States	District of Columbia	None
+2079	6 mi. N. Washington DC	NA	NA	United States	District of Columbia	None
+2158	Meridian Hill	38.92173	-77.03577	United States	District of Columbia	None
+2303	Smithsonian "Butterfly Habitat Garden"	NA	NA	United States	District of Columbia	None
+2334	Washington, National Arboretum	NA	NA	United States	District of Columbia	None
+2478	Brightwood	38.95685	-77.03889	United States	District of Columbia	None
+2570	12th Street Southwest, Washington D.C.	38.88497	-77.02804	United States	District of Columbia	None
+2673	12th street and Independence Avenue southwest	38.88755	-77.02805	United States	District of Columbia	None
+2701	Agricultural Department Grounds	38.88773	-77.03	United States	District of Columbia	None
+2711	Northeast Cor L and Connecticut Avenue Northwest	NA	NA	United States	District of Columbia	None
+2727	K and 18th street Northwest	38.90252	-77.04169	United States	District of Columbia	None
+2855	Washington D.C.	38.01492	-77.00061	United States	District of Columbia	None
+2907	Virginia Side	NA	NA	United States	District of Columbia	None
+3176	National Arboretum	38.91227	-76.96979	United States	District of Columbia	None
+3321	U.S. Natural Museum - Washington D.C.	NA	NA	United States	District of Columbia	None
+3534	Farragut Square	38.90196	-77.03898	United States	District of Columbia	None
+3556	Park Lot	NA	NA	United States	District of Columbia	None
+3639	United States National History Building	NA	NA	United States	District of Columbia	None
+3695	Haine's Point	38.85735	-77.02223	United States	District of Columbia	None
+3891	4 miles N. of Washington DC	NA	NA	United States	District of Columbia	None
+4435	Washington D.C., Lawn of National Museum	NA	NA	United States	District of Columbia	None
+4479	National Museum of Natural History	38.89181	-77.02781	United States	District of Columbia	None
+4549	Eastern Branch, nr Bennings	38.894	-76.961	United States	District of Columbia	None
+4646	1700 K Street Northwest, Washington	38.90228	-77.03991	United States	District of Columbia	None
+5441	Shoreham Hotel	38.92266	-77.05365	United States	District of Columbia	None
+5595	O st NW	38.90847	-77.01974	United States	District of Columbia	None
+5614	United States National Museum Building	NA	NA	United States	District of Columbia	None
+5775	Washington, DC	NA	NA	United States	District of Columbia	None
+5877	Woodridge	NA	NA	United States	District of Columbia	None
+6089	4 mi N Washington D.C.	NA	NA	United States	District of Columbia	None
+6943	P St NW	NA	NA	United States	District of Columbia	None
+8370	USDA Grounds	NA	NA	United States	District of Columbia	None
+8608	Georgetown	38.9095	-77.06643	United States	District of Columbia	None
+8888	11 miles N. NE of Washington D.C.	NA	NA	United States	District of Columbia	None
+8950	Kalorama road + 16th street, northwest	38.92269	-77.03649	United States	District of Columbia	None
+12	unknown	NA	NA	United States	Unknown	unknown
+20	"Cambr. B."	NA	NA	United States	Unknown	unknown
+24	Unknown	NA	NA	United States	Unknown	unknown
+41	Cambr.	NA	NA	United States	Unknown	unknown
+68	Port Hudson	NA	NA	United States	Unknown	unknown
+103	Specific locality unknown	NA	NA	United States	Unknown	unknown
+104	Cambridge	NA	NA	United States	Unknown	Cambridge
+107	'Union Co'	NA	NA	United States	Unknown	unknown
+180	Lot 80	NA	NA	United States	Unknown	unknown
+200	Port Mash	NA	NA	United States	Unknown	unknown
+206	Logan	NA	NA	United States	Unknown	unknown
+210	Mnt.Washington	NA	NA	United States	Unknown	unknown
+314	Mississippi River	NA	NA	United States	Unknown	unknown
+349	Acacia	NA	NA	United States	Unknown	unknown
+350	Overton	NA	NA	United States	Unknown	unknown
+364	L. S. Jr. U	NA	NA	United States	Unknown	unknown
+370	Austin, Nichols and Company Warehouse	NA	NA	United States	Unknown	unknown
+413	Elizabeth	NA	NA	United States	Unknown	unknown
+444	Bedford	NA	NA	United States	Unknown	unknown
+472	West Beach	NA	NA	United States	Unknown	unknown
+492	Jacksonville	NA	NA	United States	Unknown	unknown
+538	Brook.	NA	NA	United States	Unknown	unknown
+576	New Castle	NA	NA	CANADA	Unknown	None or Unknown
+627	unknown	NA	NA	United States	Unknown	Crawford
+662	Groton	NA	NA	United States	Unknown	unknown
+722	Harbor Hill	NA	NA	United States	Unknown	unknown
+732	Snow Bird Mt.	NA	NA	United States	Unknown	unknown
+754	unknown locality in Canada	NA	NA	CANADA	Unknown	None or Unknown
+767	Hope, anL	NA	NA	United States	Unknown	unknown
+770	Daggy Farm	NA	NA	United States	Unknown	unknown
+826	Indian Ladder	NA	NA	United States	Unknown	unknown
+835	none	NA	NA	United States	Unknown	unknown
+891	Emdicott	NA	NA	United States	Unknown	unknown
+929	College	NA	NA	United States	Unknown	unknown
+1030	Merser's Fanning Mill	NA	NA	United States	Unknown	unknown
+1137	Crystal Lake	NA	NA	United States	Unknown	unknown
+1184	Cala	NA	NA	United States	Unknown	unknown
+1289	Willow Springs	NA	NA	United States	Unknown	unknown
+1311	Beach	NA	NA	United States	Unknown	unknown
+1339	F'ton	NA	NA	United States	Unknown	unknown
+1370	USDA Agricultural Research Service	NA	NA	United States	Unknown	unknown
+1449	Alamagan, M. I.	NA	NA	United States	Unknown	unknown
+1525	Camp Umatilla, W. T.	NA	NA	United States	Unknown	unknown
+1585	Delaware Water Gap (PA or NJ)	NA	NA	United States	Unknown	unknown
+1609	New England, no specific locality	NA	NA	United States	Unknown	unknown
+1615	Crossroads	NA	NA	United States	Unknown	unknown
+1716	Md.	NA	NA	United States	Unknown	unknown
+1789	Dock	NA	NA	United States	Unknown	unknown
+1912	LaPerade, PQ Champlain Co.	NA	NA	CANADA	Unknown	None or Unknown
+2060	Rte. 90, 3.5 mi E of exit 74	NA	NA	United States	Unknown	unknown
+2062	West End	NA	NA	United States	Unknown	unknown
+2073	Glendon Park	NA	NA	United States	Unknown	unknown
+2181	none	NA	NA	CANADA	Unknown	None or Unknown
+2237	Hall	NA	NA	CANADA	Unknown	None or Unknown
+2253	Nepigon	NA	NA	CANADA	Unknown	None or Unknown
+2297	E. Cleveland	NA	NA	United States	Unknown	unknown
+2412	Lake Bon	NA	NA	United States	Unknown	unknown
+2463	Shadow Lake	NA	NA	United States	Unknown	unknown
+2469	"Salt Lake"	NA	NA	United States	Unknown	unknown
+2585	Mojave Desert	NA	NA	United States	Unknown	unknown
+2626	Calhoun Co.	NA	NA	United States	Unknown	unknown
+2702	Mt. Sta. Bottomland	NA	NA	United States	Unknown	unknown
+2767	Oxbow	NA	NA	United States	Unknown	unknown
+2807	PSFC	NA	NA	United States	Unknown	unknown
+2937	Iowa - Minnesota State Line, Hwy. 33	NA	NA	United States	Unknown	unknown
+2979	Kansas and Nebraska, no further information	NA	NA	United States	Unknown	unknown
+3050	Yellowstone National Park	NA	NA	United States	Unknown	unknown
+3066	Pa.	NA	NA	United States	Unknown	unknown
+3399	Clear Lakes Oaks	NA	NA	United States	Unknown	unknown
+3570	Blue Hill	NA	NA	United States	Unknown	unknown
+3637	Bennett	NA	NA	United States	Unknown	unknown
+3669	Mount Washington	NA	NA	United States	Unknown	unknown
+3671	Orono	NA	NA	United States	Unknown	unknown
+3776	C.P.N.Y.	NA	NA	United States	Unknown	unknown
+3827	Wilm. South	NA	NA	United States	Unknown	unknown
+3833	Miss.	NA	NA	United States	Unknown	unknown
+3865	Mt. Pleasant	NA	NA	United States	Unknown	unknown
+3958	New England	NA	NA	United States	Unknown	unknown
+4203	Picken Co.	NA	NA	United States	Unknown	unknown
+4246	Clifton Co. O.	NA	NA	United States	Unknown	unknown
+4364	Wilton-Athena Creek	NA	NA	United States	Unknown	unknown
+4423	Lewis Ws	NA	NA	United States	Unknown	unknown
+4510	Buffalo	NA	NA	United States	Unknown	unknown
+4750	Kent County	NA	NA	United States	Unknown	Kent
+5008	2159 Southern States?	NA	NA	United States	Unknown	unknown
+5018	Geo.	NA	NA	United States	Unknown	unknown
+5109	Estes Park	NA	NA	United States	Unknown	unknown
+5147	South Port	NA	NA	United States	Unknown	unknown
+5521	Half Moon Lake	NA	NA	United States	Unknown	unknown
+5525	Cumberland Valley	NA	NA	United States	Unknown	unknown
+5698	"Concordia Co"	NA	NA	United States	Unknown	unknown
+6080	Apple	NA	NA	United States	Unknown	unknown
+6196	St. J	NA	NA	United States	Unknown	unknown
+6544	Athens	NA	NA	United States	Unknown	unknown
+6632	Orchard	NA	NA	United States	Unknown	unknown
+6661	Sulphur Springs, state unknown	NA	NA	United States	Unknown	unknown
+6725	Siskiyou Mountains	NA	NA	United States	Unknown	unknown
+6742	Lake Tamis - Keming	NA	NA	CANADA	Unknown	None or Unknown
+6904	Loui	NA	NA	United States	Unknown	unknown
+6908	Great Dismal Swamp N.C.-Va	NA	NA	United States	Unknown	unknown
+6983	Fall Creek at Forest Home	NA	NA	United States	Unknown	unknown
+7053	Elmdale Mh	NA	NA	United States	Unknown	unknown
+7057	St. J.	NA	NA	United States	Unknown	unknown
+7133	St. Fran.	NA	NA	United States	Unknown	unknown
+7676	Wavkeened	NA	NA	United States	Unknown	unknown
+7788	Middlebrook	NA	NA	United States	Unknown	unknown
+7862	Wilmington	NA	NA	United States	Unknown	unknown
+7969	Brookfield Center	NA	NA	United States	Unknown	unknown
+8096	Glen Ellyn	NA	NA	United States	Unknown	unknown
+8324	Cumberland, Geological Survey Gap	NA	NA	United States	Unknown	unknown
+8349	ex. ship - Mex	NA	NA	United States	Unknown	unknown
+8490	Jersey Spr.	NA	NA	United States	Unknown	unknown
+8563	Colo. 1096	NA	NA	United States	Unknown	unknown
+8596	2 mi W Kelso, Is. Spar	NA	NA	United States	Unknown	unknown
+8656	Grand Bahamas Island, Freeport Brookwood Farms	NA	NA	United States	Unknown	unknown
+8842	L.Ral.	NA	NA	United States	Unknown	unknown
+8994	Grand Detour	NA	NA	United States	Unknown	unknown

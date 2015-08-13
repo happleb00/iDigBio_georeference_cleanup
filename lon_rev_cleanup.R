@@ -1,5 +1,5 @@
 
-setwd("C:/Users/HLA/Desktop/R/iDigBio_data_cleaning")
+setwd("C:/Users/HLA/Desktop/R/iDigBio_georeference_cleanup")
 
 
 ### The iDigBio portal flag "rev_geocode_flip_lon_sign" finds localities where the longitude sign is incorrect.

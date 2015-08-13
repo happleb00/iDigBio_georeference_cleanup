@@ -1,5 +1,5 @@
 
-setwd("C:/Users/HLA/Desktop/R/iDigBio_data_cleaning")
+setwd("C:/Users/HLA/Desktop/R/iDigBio_georeference_cleanup")
 
 
 ### The iDigBio portal flag "rev_geocode_mismatch" finds localities where the lat/lon is incorrect.

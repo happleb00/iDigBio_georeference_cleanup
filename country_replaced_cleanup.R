@@ -1,5 +1,5 @@
 
-setwd("C:/Users/HLA/Desktop/R/iDigBio_data_cleaning")
+setwd("C:/Users/HLA/Desktop/R/iDigBio_georeference_cleanup")
 
 
 ### The iDigBio portal flag "dwc_country_replaced" finds localities where lat/lon is not in the given country.

@@ -1,5 +1,5 @@
 
-setwd("C:/Users/HLA/Desktop/R/iDigBio_data_cleaning")
+setwd("C:/Users/HLA/Desktop/R/iDigBio_georeference_cleanup")
 
 
 ### The iDigBio portal flag "dwc_country_replaced" finds localities where lat/lon is not in the given state or province.
@@ -9,10 +9,10 @@ setwd("C:/Users/HLA/Desktop/R/iDigBio_data_cleaning")
 # Calls data from the .csv file downloaded from the iDigBio portal and creates a dataframe of only columns relevant to locality.
 SP_replaced_dat <- read.csv("input/dwc_stateprovince_replaced_raw.csv", header = TRUE, stringsAsFactors = FALSE)
 SP_replaced <- SP_replaced_dat[c("dwc.locality","dwc.decimalLatitude","dwc.decimalLongitude","dwc.country","dwc.stateProvince","dwc.county")]
-colnames(SPy_replaced) <- c("Locality", "Latitude", "Longitude", "Country", "State_Province", "County")
+colnames(SP_replaced) <- c("Locality", "Latitude", "Longitude", "Country", "State_Province", "County")
 
 # Creates a dataframe of entried from dwc_stateprovince_replaced by desired country
-SP_replaced_subset <- subset(SP_replaced, (Country %in% c("Country"))) #Replace "Country" with a country from the data set
+SP_replaced_subset <- subset(SP_replaced, (Country %in% c("United States","MEXICO","CANADA"))) #Replace "Country" with a country from the data set
 
 # Creates a dataframe of unique localities in specified countries
 SP_replaced_unique <- unique(SP_replaced_subset)

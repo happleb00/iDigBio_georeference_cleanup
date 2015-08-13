@@ -1,5 +1,5 @@
 
-setwd("C:/Users/HLA/Desktop/R/iDigBio_data_cleaning")
+setwd("C:/Users/HLA/Desktop/R/iDigBio_georeference_cleanup")
 
 
 ### The iDigBio portal flag "rev_geocode_eez" finds localities where the centrad point is in an ocean or along the coast.
