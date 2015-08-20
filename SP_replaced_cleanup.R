@@ -2,7 +2,7 @@
 setwd("C:/Users/HLA/Desktop/R/iDigBio_georeference_cleanup")
 
 
-### The iDigBio portal flag "dwc_country_replaced" finds localities where lat/lon is not in the given state or province.
+### The iDigBio portal flag "dwc_stateprovince_replaced" finds localities where lat/lon is not in the given state or province.
 ### This code pulls out data of a specified country, or countries, organizes it, and saves to a text file.
 
 
